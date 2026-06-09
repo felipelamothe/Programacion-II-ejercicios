@@ -1,0 +1,11 @@
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\bin\Debug\net10.0\ConsoleLibrary.deps.json
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\bin\Debug\net10.0\ConsoleLibrary.dll
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\bin\Debug\net10.0\ConsoleLibrary.pdb
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.AssemblyInfo.cs
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.dll
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\refint\ConsoleLibrary.dll
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.pdb
+C:\Users\Marti\Desktop\IntentoTres\ConsoleSolution\src\ConsoleLibrary\obj\Debug\net10.0\ref\ConsoleLibrary.dll
