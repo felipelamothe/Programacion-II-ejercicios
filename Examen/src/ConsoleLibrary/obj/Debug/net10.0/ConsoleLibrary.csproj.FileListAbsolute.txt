@@ -1,0 +1,11 @@
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\bin\Debug\net10.0\ConsoleLibrary.deps.json
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\bin\Debug\net10.0\ConsoleLibrary.dll
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\bin\Debug\net10.0\ConsoleLibrary.pdb
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.dll
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\refint\ConsoleLibrary.dll
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ConsoleLibrary.pdb
+C:\Users\Felipe\OneDrive\Escritorio\ProyectosC#\Examen\src\ConsoleLibrary\obj\Debug\net10.0\ref\ConsoleLibrary.dll
